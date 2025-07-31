@@ -10,9 +10,11 @@
 [![warrensbox/terraform-switcher](https://github-readme-stats.vercel.app/api/pin/?username=warrensbox&repo=terraform-switcher&theme=transparent&show_owner=true)](https://github.com/warrensbox/terraform-switcher)
 
 ## Useful gists
-[![Sort Terraform (HCL) file by Resource Block Names using GNU `awk`](https://github-readme-stats.vercel.app/api/gist?id=7e0cf991962680d406692e1db1b551e6&show_owner=false)](https://gist.github.com/yermulnik/7e0cf991962680d406692e1db1b551e6)
-[![Jenkins `buildNotifier.groovy`](https://github-readme-stats.vercel.app/api/gist?id=44e591251bea0a08d5124b80ac796ee7&show_owner=false)](https://gist.github.com/yermulnik/44e591251bea0a08d5124b80ac796ee7)
 [![My list of Terraform-related CLI tools](https://github-readme-stats.vercel.app/api/gist?id=24b922460aa09759d74a27b7740ecd0f&show_owner=false)](https://gist.github.com/yermulnik/24b922460aa09759d74a27b7740ecd0f)
 [![My list of CLI tools for AWS SSM Session Manager](https://github-readme-stats.vercel.app/api/gist?id=234e18b40145ac437a88476e93b3f12c&show_owner=false)](https://gist.github.com/yermulnik/234e18b40145ac437a88476e93b3f12c)
+[![Sort Terraform (HCL) file by Resource Block Names using GNU `awk`](https://github-readme-stats.vercel.app/api/gist?id=7e0cf991962680d406692e1db1b551e6&show_owner=false)](https://gist.github.com/yermulnik/7e0cf991962680d406692e1db1b551e6)
+[![Jenkins `buildNotifier.groovy`](https://github-readme-stats.vercel.app/api/gist?id=44e591251bea0a08d5124b80ac796ee7&show_owner=false)](https://gist.github.com/yermulnik/44e591251bea0a08d5124b80ac796ee7)
+[![AWS Region Code from Name](https://github-readme-stats.vercel.app/api/gist?id=4670e5103e42746cdd5dd0236c32c587&show_owner=false)](https://gist.github.com/yermulnik/4670e5103e42746cdd5dd0236c32c587)
+[![Python: debug output for `requests`/`urllib3`](https://github-readme-stats.vercel.app/api/gist?id=55c46ee560f6693af380254e2d0198c1&show_owner=false)](https://gist.github.com/yermulnik/55c46ee560f6693af380254e2d0198c1)
 
 <!-- [YZ-RIPE](https://apps.db.ripe.net/db-web-ui/query?bflag=false&dflag=false&rflag=true&searchtext=YZ-RIPE&source=RIPE) -->
