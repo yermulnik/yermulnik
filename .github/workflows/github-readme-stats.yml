@@ -10,11 +10,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
 
       # Generate stats card
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&cache_seconds=21600&hide_border=true&hide_rank=true&custom_title=Stats&text_bold=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
@@ -23,7 +23,7 @@ jobs:
 
       # Generate pin cards
       - name: Generate pin card (pre-commit-terraform)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: pin
           options: username=antonbabenko&repo=pre-commit-terraform&theme=transparent&show_owner=true
@@ -31,7 +31,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card (terraform-switcher)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: pin
           options: username=warrensbox&repo=terraform-switcher&theme=transparent&show_owner=true
@@ -40,7 +40,7 @@ jobs:
 
       # Generate gist cards
       - name: Generate gist card (My list of Terraform-related CLI tools)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: gist
           options: id=24b922460aa09759d74a27b7740ecd0f&show_owner=false
@@ -48,7 +48,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate gist card (My list of CLI tools for AWS SSM Session Manager)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: gist
           options: id=234e18b40145ac437a88476e93b3f12c&show_owner=false
@@ -56,7 +56,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate gist card (Sort Terraform (HCL) file by Resource Block Names using GNU `awk`)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: gist
           options: id=7e0cf991962680d406692e1db1b551e6&show_owner=false
@@ -64,7 +64,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate gist card (Jenkins `buildNotifier.groovy`)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: gist
           options: id=44e591251bea0a08d5124b80ac796ee7&show_owner=false
@@ -72,7 +72,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate gist card (AWS Region Code from Name)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: gist
           options: id=4670e5103e42746cdd5dd0236c32c587&show_owner=false
@@ -80,7 +80,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate gist card (Python debug output for `requests`/`urllib3`)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: gist
           options: id=55c46ee560f6693af380254e2d0198c1&show_owner=false
