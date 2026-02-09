@@ -46,7 +46,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: gist
-          options: id=24b922460aa09759d74a27b7740ecd0f&show_owner=false
+          options: username=${{ github.repository_owner }}&id=24b922460aa09759d74a27b7740ecd0f&show_owner=false
           path: github-readme-stats-action/gist_24b922460aa09759d74a27b7740ecd0f.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -54,7 +54,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: gist
-          options: id=234e18b40145ac437a88476e93b3f12c&show_owner=false
+          options: username=${{ github.repository_owner }}&id=234e18b40145ac437a88476e93b3f12c&show_owner=false
           path: github-readme-stats-action/gist_234e18b40145ac437a88476e93b3f12c.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -62,7 +62,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: gist
-          options: id=7e0cf991962680d406692e1db1b551e6&show_owner=false
+          options: username=${{ github.repository_owner }}&id=7e0cf991962680d406692e1db1b551e6&show_owner=false
           path: github-readme-stats-action/gist_7e0cf991962680d406692e1db1b551e6.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -70,7 +70,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: gist
-          options: id=44e591251bea0a08d5124b80ac796ee7&show_owner=false
+          options: username=${{ github.repository_owner }}&id=44e591251bea0a08d5124b80ac796ee7&show_owner=false
           path: github-readme-stats-action/gist_44e591251bea0a08d5124b80ac796ee7.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -78,7 +78,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: gist
-          options: id=4670e5103e42746cdd5dd0236c32c587&show_owner=false
+          options: username=${{ github.repository_owner }}&id=4670e5103e42746cdd5dd0236c32c587&show_owner=false
           path: github-readme-stats-action/gist_4670e5103e42746cdd5dd0236c32c587.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -86,7 +86,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
         with:
           card: gist
-          options: id=55c46ee560f6693af380254e2d0198c1&show_owner=false
+          options: username=${{ github.repository_owner }}&id=55c46ee560f6693af380254e2d0198c1&show_owner=false
           path: github-readme-stats-action/gist_55c46ee560f6693af380254e2d0198c1.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
