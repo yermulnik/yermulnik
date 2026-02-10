@@ -2,8 +2,9 @@
 name: Update github-readme-stats cards
 
 on:
-  schedule:
-    - cron: "0 9 * * *"
+  # Stopped in favour of https://github-stats-extended.vercel.app/frontend
+  #schedule:
+  #  - cron: "0 9 * * *"
   workflow_dispatch:
 
 jobs:
