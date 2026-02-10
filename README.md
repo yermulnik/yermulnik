@@ -9,7 +9,7 @@
 <!--
 [![GitHub stats](github-readme-stats-action/stats.svg)](https://github.com/stats-organization/github-readme-stats-action)
 -->
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yermulnik&rank_icon=github&custom_title=Stats&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yermulnik&rank_icon=github&custom_title=GitHub%20Statistics&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
 
 ## Collaborator at
 <!--
