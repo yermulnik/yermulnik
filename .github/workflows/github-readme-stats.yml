@@ -3,6 +3,7 @@ name: Update github-readme-stats cards
 
 on:
   # Stopped in favour of https://github-stats-extended.vercel.app/frontend
+  # (https://github.com/stats-organization/github-stats-extended)
   #schedule:
   #  - cron: "0 9 * * *"
   workflow_dispatch:

@@ -9,7 +9,7 @@
 <!--
 [![GitHub stats](github-readme-stats-action/stats.svg)](https://github.com/stats-organization/github-readme-stats-action)
 -->
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yermulnik&rank_icon=github&custom_title=Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=yermulnik&rank_icon=github&custom_title=Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yermulnik&rank_icon=github&custom_title=Stats&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
 
 ## Collaborator at
 <!--
@@ -21,7 +21,7 @@
 [![warrensbox/terraform-switcher](github-readme-stats-action/pin_terraform-switcher.svg)](https://github.com/warrensbox/terraform-switcher)
 -->
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yermulnik&repo=antonbabenko/pre-commit-terraform&show_owner=true&theme=default)](https://github.com/antonbabenko/pre-commit-terraform)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yermulnik&repo=warrensbox/terraform-switcher&show_owner=true&theme=default)](https://github.com/antonbabenko/pre-commit-terraform)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yermulnik&repo=warrensbox/terraform-switcher&show_owner=true&theme=default)](https://github.com/warrensbox/terraform-switcher)
 
 ## Useful gists
 <!--
