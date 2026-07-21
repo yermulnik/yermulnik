@@ -4,6 +4,7 @@
 <!-- cards temporarily unavailable 21-Jul-2026
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yermulnik&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 -->
+[![GitHub Profile Summary Cards](https://raw.githubusercontent.com/yermulnik/yermulnik/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!-- This Deployment is paused by the owner.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yermulnik&show_icons=true&theme=transparent&cache_seconds=21600&hide_border=true&hide_rank=true&custom_title=Stats&text_bold=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
