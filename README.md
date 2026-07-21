@@ -1,14 +1,14 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 [![Made in Ukraine](https://img.shields.io/badge/made_in-Ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 
+<!-- cards temporarily unavailable 21-Jul-2026
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yermulnik&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
 
-<!--
+<!-- This Deployment is paused by the owner.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yermulnik&show_icons=true&theme=transparent&cache_seconds=21600&hide_border=true&hide_rank=true&custom_title=Stats&text_bold=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<!--
-[![GitHub stats](github-readme-stats-action/stats.svg)](https://github.com/stats-organization/github-readme-stats-action)
--->
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yermulnik&rank_icon=github&custom_title=GitHub%20Statistics&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
 
 ## Collaborator at
