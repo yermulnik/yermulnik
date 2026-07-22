@@ -3,7 +3,8 @@ name: Update github-profile-summary-cards
 on:
   create:
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "17 9 * * *"
+      timezone: 'Europe/Kyiv'
   workflow_dispatch:
 
 jobs:
